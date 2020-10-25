@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mortonwong.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-10-25T16:03:08.898Z</updated>
+    <title>mortonLimのblog</title>
+    <updated>2020-10-25T16:07:22.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mortonwong.github.io"/>
     <link rel="self" href="https://mortonwong.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>前端切图仔，喜欢拍照，喜欢电音，喜欢宠爱我的小璐璐~</subtitle>
     <logo>https://mortonwong.github.io/images/avatar.png</logo>
     <icon>https://mortonwong.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, mortonLimのblog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://mortonwong.github.io/post/hello-gridea/</id>
